@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Virginia
+ *
+ */
+module patternExamples {
+}
